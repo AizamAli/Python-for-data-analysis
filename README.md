@@ -42,4 +42,5 @@ matplotlib : pyplot
 
 ## Usage
 To use the model, you need to give it the right variables in order for it to predict the amount of bikes rented.
-_Note_ : This model is using Korean data, so it might not be working with data of other countries 
+
+Note : This model is using Korean data, so it might not be working with data of other countries 
