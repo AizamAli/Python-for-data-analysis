@@ -31,7 +31,7 @@ The dataset has a total of 18 columns :
 ## Features
 The notebook is split in mainly 3 sections : the data pre processing in which we scaled and encoded our data, the data visualization used to analyse it and better understand the problem, and finally the modeling section where we created our machine learning model.
 
-Installation
+## Installation
 Libraries used :
 sklearn : pipeline, svm, preprocessing, linear_model, isotonic, tree, discriminant_analysis, neural_network, ensemble, model_selection, metrics,
 scipy : stats
@@ -40,13 +40,7 @@ numpy
 seaborn
 matplotlib : pyplot
 
-Example:
-
-bash
-Copy code
-pip install your_package_name
-
-Usage
+## Usage
 Explain how to use your machine learning model or application. Include code snippets, examples, or sample commands to demonstrate usage.
 
 Example:
