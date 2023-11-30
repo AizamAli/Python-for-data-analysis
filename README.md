@@ -41,27 +41,5 @@ seaborn
 matplotlib : pyplot
 
 ## Usage
-Explain how to use your machine learning model or application. Include code snippets, examples, or sample commands to demonstrate usage.
-
-Example:
-
-python
-Copy code
-from your_package_name import YourModel
-
-# Create an instance of YourModel
-model = YourModel()
-
-# Train the model
-model.fit(X_train, y_train)
-
-# Make predictions
-predictions = model.predict(X_test)
-Examples
-Provide additional examples or use cases that showcase the functionality of your project. This could include visualizations, sample outputs, or demonstrations.
-
-Contributing
-Explain how others can contribute to your project. Include guidelines for submitting issues, feature requests, or pull requests.
-
-License
-Specify the project's license information. This informs users about how they can use, modify, and share your project.
+To use the model, you need to give it the right variables in order for it to predict the amount of bikes rented.
+_Note_ : This model is using Korean data, so it might not be working with data of other countries 
