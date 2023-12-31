@@ -29,7 +29,7 @@ The dataset has a total of 18 columns :
 - Functioning day
 
 ## Features
-The notebook is split in mainly 3 sections : the data pre processing in which we scaled and encoded our data, the data visualization used to analyse it and better understand the problem, and finally the modeling section where we created our machine learning model.
+The notebook is split in mainly 3 sections : the data pre processing in which we scaled and encoded our data, the data visualization used to analyse it and better understand the problem, and finally the modeling section where we created our machine learning model and optimize it.
 
 ## Installation
 Libraries used :
